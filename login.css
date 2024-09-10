@@ -5,7 +5,7 @@ body {
 }
  
 body {
-    background-image: linear-gradient(150deg, #f0398e 0, #f792cd 16.67%, #f12a7d 33.33%, hsl(342, 81%, 59%) 50%, #d00057 66.67%, hsl(327, 87%, 46%) 83.33%, hsl(340, 80%, 54%) 100%);
+    background-image: linear-gradient(150deg, #8edeec 0, #92b2f7 16.67%, #702af1 33.33%, hsl(204, 94%, 87%) 50%, #97b9e6 66.67%, hsl(207, 65%, 77%) 83.33%, hsl(186, 21%, 34%) 100%);
     display: flex;/*Comportamento do elemento na pagina*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -20,12 +20,12 @@ body {
 }
  
 .form {
-    background-image: linear-gradient(150deg, #fc5998 0, #f093ba 16.67%, #e41e7a 33.33%, #fd25a3 50%, #f32675 66.67%, #c90064 83.33%, #c2005b 100%);
-    background-color: #fa3d95;
+    background-image: linear-gradient(150deg, #3693a3 0, #93bef0 16.67%, #bfceee 33.33%, #3e667c 50%, #a9d2e2 66.67%, #96bddd 83.33%, #537a8a 100%);
+    background-color: #3dcefa;
     padding: 30px;
     padding-top: 0;
     border-radius: 20px;
-    color: rgb(255, 0, 149);
+    color: rgb(68, 83, 116);
     box-shadow: 0 0 10px black;
 }
  
