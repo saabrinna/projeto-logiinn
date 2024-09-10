@@ -55,6 +55,19 @@ Veja a imagem a seguir:
 
 * `align-items` - define o valor em todos os filhos diretos como um grupo. No flexbox, ele controla o alinhamento de itens no eixo cruzado . No layout de grade, ele controla o alinhamento de itens no eixo de bloco dentro de suas áreas de grade.
 
+* `background-image` - define uma ou mais imagens de fundo em um elemento.
+
+* `background-color` - define a cor de fundo de um elemento.
+
+* `padding` -O preenchimento é usado para criar espaço ao redor do conteúdo de um elemento, dentro de quaisquer bordas definidas.
+
+ * `padding-top`- A propriedade CSS define a altura da área de preenchimento na parte superior de um elemento.padding-top
+
+* `border-radius`- arredonda os cantos da borda externa de um elemento. Você pode definir um único raio para fazer cantos circulares, ou dois raios para fazer cantos elípticos.
+
+* `color` - O tipo de dado CSS <color> indica um cor no espaço sRGB . Uma cor pode ser descrita em qualquer uma destas formas:
+
+* `box-shadow` -  é utilizado para adicionar efeitos de sombra em volta de um elemento. Você pode especificar mais de um efeito, os separando com virgulas.
 
 
 
@@ -96,6 +109,15 @@ Veja a imagem a seguir:
 
 ## Referência
 [display](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display)
+[justify-conten](https://developer.mozilla.org/en-US/)
+[align-items](https://developer.mozilla.org/en-US/)
+[background-image](https://developer.mozilla.org/en-US/)
+[background-color](https://developer.mozilla.org/en-US/)
+[padding](https://developer.mozilla.org/en-US/)
+[padding-top](https://developer.mozilla.org/en-US/)
+[border-radius](https://developer.mozilla.org/en-US/)
+[color](https://developer.mozilla.org/en-US/)
+[box-shadow](https://developer.mozilla.org/en-US/)
 
 ## Autor(a)
 O projeto foi desenvolvido por:
